@@ -1,6 +1,9 @@
 {
+	"name": "pmp-docs",
+  "version": "0.0.1",
+  "description": "PMP docs",
 	"scripts": {
-    "dev": "next",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
